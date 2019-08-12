@@ -10,6 +10,7 @@ Players are spawned in a lobby as tutorials. This is just to entertain people wh
 `wac_giveItems` Give players guns in the lobby. (Best when `admintoolbox_tutorial_dmg_allowed` is disabled in the AdminToolBox plugin.)
 
 If you want to change the location of the lobby:
+
 `wac_coordinate_x` Defaults to 53
 
 `wac_coordinate_y` Defaults to 1020
